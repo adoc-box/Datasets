@@ -1,0 +1,16 @@
+Retrieved from: https://www.kaggle.com/pranavraikokte/covid19-image-dataset
+
+--
+
+Context
+
+Helping Deep Learning and AI Enthusiasts like me to contribute to improving COVID-19 detection using just Chest X-rays.
+Content
+
+It is a simple directory structure branched into test and train and further branched into the respective 3 classes which contains the images.
+Acknowledgements
+
+The University of Montreal for releasing the images.
+Inspiration
+
+Help the medical and researcher community by sharing my work and encourage them to contribute extensively.
