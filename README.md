@@ -32,3 +32,6 @@ __File__: seeds.txt <br/>
 __Data type__: Numeric <br/>
 __Retrieved from__: [UCI Repository - seeds Data Set](https://archive.ics.uci.edu/ml/datasets/seeds)
 
+__File__: bank.csv <br/>
+__Data type__: Mixed <br/>
+__Retrieved from__: [UCI Repository - seeds Data Set](https://archive.ics.uci.edu/dataset/222/bank+marketing)
