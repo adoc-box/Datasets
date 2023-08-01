@@ -34,4 +34,4 @@ __Retrieved from__: [UCI Repository - seeds Data Set](https://archive.ics.uci.ed
 
 __File__: bank.csv <br/>
 __Data type__: Mixed <br/>
-__Retrieved from__: [UCI Repository - seeds Data Set](https://archive.ics.uci.edu/dataset/222/bank+marketing)
+__Retrieved from__: [UCI Repository - Bank Marketing](https://archive.ics.uci.edu/dataset/222/bank+marketing)
