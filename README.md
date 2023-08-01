@@ -40,3 +40,6 @@ __File__: bank.csv <br/>
 __Data type__: Mixed <br/>
 __Retrieved from__: [UCI Repository - Bank Marketing](https://archive.ics.uci.edu/dataset/222/bank+marketing)
 
+__File__: qsar_fish_toxicity.csv <br/>
+__Data type__: Numeric <br/>
+__Retrieved from__: [UCI Repository - QSAR fish toxicity](https://archive.ics.uci.edu/dataset/504/qsar+fish+toxicity)
