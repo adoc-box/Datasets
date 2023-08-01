@@ -36,3 +36,7 @@ __File__: wine.data <br/>
 __Data type__: Numeric <br/>
 __Retrieved from__: [UCI Repository - Wine](https://archive.ics.uci.edu/dataset/109/wine)
 
+__File__: bank.csv <br/>
+__Data type__: Mixed <br/>
+__Retrieved from__: [UCI Repository - Bank Marketing](https://archive.ics.uci.edu/dataset/222/bank+marketing)
+
