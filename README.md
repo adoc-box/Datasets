@@ -43,3 +43,7 @@ __Retrieved from__: [UCI Repository - Bank Marketing](https://archive.ics.uci.ed
 __File__: qsar_fish_toxicity.csv <br/>
 __Data type__: Numeric <br/>
 __Retrieved from__: [UCI Repository - QSAR fish toxicity](https://archive.ics.uci.edu/dataset/504/qsar+fish+toxicity)
+
+__File__: Concrete_Data.xls <br/>
+__Data type__: Numeric <br/>
+__Retrieved from__: [UCI Repository - Concrete Compressive Strength](https://archive.ics.uci.edu/dataset/165/concrete+compressive+strength)
