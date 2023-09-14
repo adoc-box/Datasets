@@ -36,3 +36,7 @@ __File__: wine.data <br/>
 __Data type__: Numeric <br/>
 __Retrieved from__: [UCI Repository - Wine](https://archive.ics.uci.edu/dataset/109/wine)
 
+__File__: spambase.csv <br/>
+__Data type__: Numeric <br/>
+__Retrieved from__: [UCI Repository - Spambase](https://archive.ics.uci.edu/dataset/94/spambase)
+
