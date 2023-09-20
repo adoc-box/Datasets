@@ -36,21 +36,7 @@ __File__: wine.data <br/>
 __Data type__: Numeric <br/>
 __Retrieved from__: [UCI Repository - Wine](https://archive.ics.uci.edu/dataset/109/wine)
 
-__File__: bank.csv <br/>
-__Data type__: Mixed <br/>
-__Retrieved from__: [UCI Repository - Bank Marketing](https://archive.ics.uci.edu/dataset/222/bank+marketing)
-
-__File__: qsar_fish_toxicity.csv <br/>
+__File__: spambase.csv <br/>
 __Data type__: Numeric <br/>
-__Retrieved from__: [UCI Repository - QSAR fish toxicity](https://archive.ics.uci.edu/dataset/504/qsar+fish+toxicity)
-
-__File__: Concrete_Data.xls <br/>
-__Data type__: Numeric <br/>
-__Retrieved from__: [UCI Repository - Concrete Compressive Strength](https://archive.ics.uci.edu/dataset/165/concrete+compressive+strength)
-
-__File__: decathlon.csv <br/>
-__Data type__: Numeric <br/>
-__Retrieved from__: [Kaggle - drisskaouthar/decathlon](https://www.kaggle.com/datasets/drisskaouthar/decathlon)
-
-
+__Retrieved from__: [UCI Repository - Spambase](https://archive.ics.uci.edu/dataset/94/spambase)
 
