@@ -40,3 +40,6 @@ __File__: spambase.csv <br/>
 __Data type__: Numeric <br/>
 __Retrieved from__: [UCI Repository - Spambase](https://archive.ics.uci.edu/dataset/94/spambase)
 
+__File__: decathlon.csv <br/>
+__Data type__: Numeric <br/>
+__Retrieved from__: [Kaggle - drisskaouthar/decathlon](https://www.kaggle.com/datasets/drisskaouthar/decathlon)
