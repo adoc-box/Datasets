@@ -47,3 +47,10 @@ __Retrieved from__: [UCI Repository - QSAR fish toxicity](https://archive.ics.uc
 __File__: Concrete_Data.xls <br/>
 __Data type__: Numeric <br/>
 __Retrieved from__: [UCI Repository - Concrete Compressive Strength](https://archive.ics.uci.edu/dataset/165/concrete+compressive+strength)
+
+__File__: decathlon.csv <br/>
+__Data type__: Numeric <br/>
+__Retrieved from__: [Kaggle - drisskaouthar/decathlon](https://www.kaggle.com/datasets/drisskaouthar/decathlon)
+
+
+
