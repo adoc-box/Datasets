@@ -47,3 +47,7 @@ __Retrieved from__: [Kaggle - drisskaouthar/decathlon](https://www.kaggle.com/da
 __File__: heart_failure_clinical_records.csv <br/>
 __Data type__: Numeric <br/>
 __Retrieved from__: [UCI - Heart failure clinical records](https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records)
+
+__File__: breast_cancer_coimbra.csv <br/>
+__Data type__: Numeric <br/>
+__Retrieved from__: [UCI - Breast Cancer Coimbra](https://archive.ics.uci.edu/dataset/451/breast+cancer+coimbra)
