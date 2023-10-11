@@ -51,3 +51,8 @@ __Retrieved from__: [UCI - Heart failure clinical records](https://archive.ics.u
 __File__: breast_cancer_coimbra.csv <br/>
 __Data type__: Numeric <br/>
 __Retrieved from__: [UCI - Breast Cancer Coimbra](https://archive.ics.uci.edu/dataset/451/breast+cancer+coimbra)
+
+__File__: Internet Firewall Data.csv <br/>
+__Data type__: Mixed <br/>
+__Retrieved from__: [UCI - Internet Firewall Data](https://archive.ics.uci.edu/dataset/542/internet+firewall+data)
+
