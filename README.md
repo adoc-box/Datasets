@@ -59,3 +59,7 @@ __Retrieved from__: [UCI - Internet Firewall Data](https://archive.ics.uci.edu/d
 __File__: AI4I 2020 Predictive Maintenance.csv <br/>
 __Data type__: Time series <br/>
 __Retrieved from__: [UCI - AI4I 2020 Predictive Maintenance](https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset)
+
+__File__: solarenergy.csv <br/>
+__Data type__: Time series <br/>
+__Retrieved from__: [Kaggle - Time series forecasting of solar energy](https://www.kaggle.com/datasets/chaitanyakumar12/time-series-forecasting-of-solar-energy)
