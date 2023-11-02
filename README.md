@@ -56,3 +56,6 @@ __File__: Internet Firewall Data.csv <br/>
 __Data type__: Mixed <br/>
 __Retrieved from__: [UCI - Internet Firewall Data](https://archive.ics.uci.edu/dataset/542/internet+firewall+data)
 
+__File__: AI4I 2020 Predictive Maintenance.csv <br/>
+__Data type__: Time series <br/>
+__Retrieved from__: [UCI - AI4I 2020 Predictive Maintenance](https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset)
