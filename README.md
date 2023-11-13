@@ -63,3 +63,7 @@ __Retrieved from__: [UCI - AI4I 2020 Predictive Maintenance](https://archive.ics
 __File__: solarenergy.csv <br/>
 __Data type__: Time series <br/>
 __Retrieved from__: [Kaggle - Time series forecasting of solar energy](https://www.kaggle.com/datasets/chaitanyakumar12/time-series-forecasting-of-solar-energy)
+
+__File__: breast_cancer_wisconsin.csv <br/>
+__Data type__: Numeric <br/>
+__Retrieved from__: [UCI - Breast Cancer Wisconsin](https://archive.ics.uci.edu/dataset/15/breast+cancer+wisconsin+original)
