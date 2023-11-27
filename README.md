@@ -67,3 +67,7 @@ __Retrieved from__: [Kaggle - Time series forecasting of solar energy](https://w
 __File__: breast_cancer_wisconsin.csv <br/>
 __Data type__: Numeric <br/>
 __Retrieved from__: [UCI - Breast Cancer Wisconsin](https://archive.ics.uci.edu/dataset/15/breast+cancer+wisconsin+original)
+
+__File__: marketing_campaign_sub.csv <br/>
+__Data type__: Mixed <br/>
+__Retrieved from__: [Kaggle - Marketing Campaign](https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign/data)
