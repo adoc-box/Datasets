@@ -71,3 +71,7 @@ __Retrieved from__: [UCI - Breast Cancer Wisconsin](https://archive.ics.uci.edu/
 __File__: marketing_campaign_sub.csv <br/>
 __Data type__: Mixed <br/>
 __Retrieved from__: [Kaggle - Marketing Campaign](https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign/data)
+
+__File__: SeoulBikeData.csv <br/>
+__Data type__: Numeric <br/>
+__Retrieved from__: [UCI - Seoul Bike Sharing Demand](https://archive.ics.uci.edu/dataset/560/seoul+bike+sharing+demand)
