@@ -75,3 +75,7 @@ __Retrieved from__: [Kaggle - Marketing Campaign](https://www.kaggle.com/dataset
 __File__: SeoulBikeData.csv <br/>
 __Data type__: Numeric <br/>
 __Retrieved from__: [UCI - Seoul Bike Sharing Demand](https://archive.ics.uci.edu/dataset/560/seoul+bike+sharing+demand)
+
+__File__: ObesityDataSet.csv <br/>
+__Data type__: Mixed <br/>
+__Retrieved from__: [Kaggle - Obesity or CVD risk](https://www.kaggle.com/datasets/aravindpcoder/obesity-or-cvd-risk-classifyregressorcluster)
