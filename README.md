@@ -83,3 +83,7 @@ __Retrieved from__: [Kaggle - Obesity or CVD risk](https://www.kaggle.com/datase
 __File__: Retail Sales.csv <br/>
 __Data type__: Mixed <br/>
 __Retrieved from__: [Kaggle - Retail Sales Dataset](https://www.kaggle.com/datasets/najir0123/retail-sales-dataset)
+
+__File__: Cellphone.csv <br/>
+__Data type__: Numeric <br/>
+__Retrieved from__: [Kaggle - Mobile Price Prediction](https://www.kaggle.com/datasets/mohannapd/mobile-price-prediction)
